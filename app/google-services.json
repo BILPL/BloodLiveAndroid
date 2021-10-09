@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957182081156",
+    "firebase_url": "https://bloodlive-12ef6.firebaseio.com",
+    "project_id": "bloodlive-12ef6",
+    "storage_bucket": "bloodlive-12ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957182081156:android:8af99ab60ba9629e232ad1",
+        "android_client_info": {
+          "package_name": "com.blood.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957182081156-0mmagqij9otdqcab5k6o5j56u1jih3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7-YD2PofsEra61Cojkrw9Re0JVb3XHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957182081156-0mmagqij9otdqcab5k6o5j56u1jih3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
